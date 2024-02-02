@@ -1,0 +1,4 @@
+module app
+typeinfo app.qmltypes
+prefer :/app/
+

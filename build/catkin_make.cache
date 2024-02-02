@@ -1,0 +1,2 @@
+ui
+-DCATKIN_DEVEL_PREFIX=/home/abdullahbilici/ros/ws/ui_ws/devel -DCMAKE_INSTALL_PREFIX=/home/abdullahbilici/ros/ws/ui_ws/install -G Unix Makefiles

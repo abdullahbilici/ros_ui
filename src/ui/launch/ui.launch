@@ -1,0 +1,8 @@
+<!-- appi ekleyemedim içindeki relative path ten dolayı -->
+
+<launch>
+  <node pkg="ui" type="hello_world_pub.py" name="hello_world_pub" output="screen"/>
+  <node pkg="ui" type="num1_pub.py" name="num1_pub" output="screen"/>
+  <node pkg="ui" type="num2_pub.py" name="num2_pub" output="screen"/>
+  <!-- <node pkg="ui" type="app" name="app" output="screen"/> -->
+  </launch>

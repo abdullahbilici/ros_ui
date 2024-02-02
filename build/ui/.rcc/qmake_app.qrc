@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/app">
+    <file alias="qmldir">/home/abdullahbilici/ros/ws/ui_ws/build/ui/app/qmldir</file>
+  </qresource>
+</RCC>
+
